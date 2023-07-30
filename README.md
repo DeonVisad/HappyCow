@@ -1,6 +1,5 @@
 # Happy Cow - Dairy Free Recipe Application
 
-![Happy Cow Logo](path_to_logo.png)
 
 Happy Cow is a delightful Dairy-Free Recipe Application developed in React JS and styled using Tailwind CSS. This app is designed to help users discover and explore a wide range of dairy-free recipes that are not only delicious but also healthy. Whether you're lactose intolerant, following a dairy-free diet, or simply looking to try new culinary adventures, Happy Cow has got you covered!
 
